@@ -1,0 +1,112 @@
+[
+
+    {
+        "id": "1",
+        "price": 62000,
+        "Brand": "walton",
+        "Model": "WNJ-5H5-RXXX-XX",
+        "image": "https://www.cheatsheet.com/wp-content/uploads/2017/06/Silver-fridge-with-side-by-side-door-system-682x1024.jpg"
+
+    },
+
+    {
+        "id": "2",
+        "price": 30000,
+        "Brand": "Samsung",
+        "Model": "RS74R5101SL/TL",
+        "image": "https://www.familyneeds.net/images/products/samsung-side-by-side-refrigerator-rs82a6000b1tl1624338588.jpg"
+
+    },
+
+    
+    {
+        "id": "3",
+        "price": 50000,
+        "Brand": "Vision",
+        "Model": "RE-240L Dahlia Red -TM",
+        "image": "https://www.familyneeds.net/images/products/samsung-convertible-4-in-1-top-mount-refrigerator-rt65k7058bsd21623040448.jpeg"
+
+    },
+    {
+        "id": "4",
+        "price": 40000,
+        "Brand": "Minister",
+        "Model": "M-252 NEW JABA",
+        "image": "https://www.familyneeds.net/images/products/samsung-convertible-4-in-1-top-mount-refrigerator-rt56k6378sld21623040629.jpeg"
+
+    },
+
+    
+    {
+        "id": "5",
+        "price": 62000,
+        "Brand": "walton",
+        "Model": "WNJ-5H5-RXXX-XX",
+        "image": "https://www.familyneeds.net/images/products/samsung-side-by-side-refrigerator-rh62k6017b1za1623040148.jpeg"
+
+    },
+
+    {
+        "id": "6",
+        "price": 45000,
+        "Brand": "Electra",
+        "Model": "RS74R5101SL/TL",
+        "image": "https://www.familyneeds.net/images/products/samsung-side-by-side-refrigerator-rs72r5011b4d21623040038.jpeg"
+
+    },
+
+    
+    {
+        "id": "7",
+        "price": 37000,
+        "Brand": "Western",
+        "Model": "RE-240L Dahlia Red -TM",
+        "image": "https://www.familyneeds.net/images/products/samsung-top-mount-refrigerator-rt27harzaspd21622608614.jpeg"
+
+    },
+    {
+        "id": "8",
+        "price": 48000,
+        "Brand": "Konka",
+        "Model": "21KRT0CZG",
+        "image": "https://www.familyneeds.net/images/products/samsung-side-by-side-refrigerator-rs62k60a7sltl1623040328.jpeg"
+
+    },
+
+    
+    {
+        "id": "9",
+        "price": 65000,
+        "Brand": "Ranks",
+        "Model": "RR-275BD 285",
+        "image": "https://www.familyneeds.net/images/products/samsung-side-by-side-refrigerator-rs72r5011b4d21623040038.jpeg"
+
+    },
+
+    {
+        "id": "10",
+        "price": 49000,
+        "Brand": "Tosiba",
+        "Model": "RS74R5101SL/TL",
+        "image": "https://www.familyneeds.net/images/products/samsung-side-by-side-refrigerator-rh62k6017b1za1623040148.jpeg"
+
+    },
+
+    
+    {
+        "id": "11",
+        "price": 100000,
+        "Brand": "Sony",
+        "Model": "JE-300L",
+        "image": "https://www.familyneeds.net/images/products/samsung-side-by-side-refrigerator-rs74r5101sltl1616907658.jpeg"
+
+    },
+    {
+        "id": "12",
+        "price": 59000,
+        "Brand": "Haier",
+        "Model": "HED-20FDS",
+        "image": "https://www.familyneeds.net/images/products/samsung-side-by-side-refrigerator-rs62k60a7sltl1623040328.jpeg"
+
+    }
+]
